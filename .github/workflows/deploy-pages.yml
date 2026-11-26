@@ -1,3 +1,4 @@
+# Publish the portfolio files from the project folder.
 name: Deploy GitHub Pages
 on:
   push:
